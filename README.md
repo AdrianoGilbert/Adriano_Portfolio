@@ -16,7 +16,7 @@ Dashboard: [Power BI](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/m
 
 1. Total Sales per Year
  
-![Total Sales per Year](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/SalesYY.png)
+![Total Sales per Year](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/SalesYY.png?raw=true)
 
 2. Vehicle Delivery Cost By Manufacter
 
