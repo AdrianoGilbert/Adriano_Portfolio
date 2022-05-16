@@ -20,12 +20,10 @@ Dashboard: [Power BI](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/m
 
 2. Vehicle Delivery Cost By Manufacter
 
-![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/custoEntregaFabricante.png)
+![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/custoEntregaFabricante.png?raw=true)
 
 3. Labor Cost Per State
 
 ![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/custoMaoObraEstados.png?raw=true)
 
 4. Total General Sales and Sales Matrix
-
-
