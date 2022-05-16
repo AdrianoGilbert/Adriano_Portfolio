@@ -1,11 +1,9 @@
-# Adriano |  Portfolio
+# Project 1: 
 
-## Data Science
-
-
-# Project 1: Sales Results for a reseller of luxury automobiles based in São Paulo.
+##Sales Results for a reseller of luxury automobiles based in São Paulo.
 
 - Business Problem Definition: 
+
 The C-Board is evaluating whether or not to continue selling Jaguar-branded cars and would like to know how Jaguar car sales have evolved by year and by state.
 
 - Tools: 
