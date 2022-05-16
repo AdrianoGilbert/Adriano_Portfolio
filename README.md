@@ -1,10 +1,17 @@
 # Adriano_Portfolio
-Example data science portfolio
+## Data Science Portfolio
+
 # Project 1: Sales Results for a reseller of luxury automobiles based in São Paulo.
-- Business Problem Definition: The C-Board is evaluating whether or not to continue selling Jaguar-branded cars and would like to know how Jaguar car sales have evolved by year and by state.
 
+- Business Problem Definition: 
+The C-Board is evaluating whether or not to continue selling Jaguar-branded cars and would like to know how Jaguar car sales have evolved by year and by state.
 
-- Showcase through a Dashboard the following information:
+- Tools: 
+
+Data source: Excel file with data collected from the sales and CRM system
+
+Dashboard: Power BI
+
 
 
 1. Total Sales per Year
@@ -17,7 +24,7 @@ Example data science portfolio
 
 3. Labor Cost Per State
 
-![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/custoMaoObraEstados.jpg)
+![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/custoMaoObraEstados.png?raw=true)
 
 4. Total General Sales and Sales Matrix
 
