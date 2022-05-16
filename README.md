@@ -8,7 +8,7 @@ The C-Board is evaluating whether or not to continue selling Jaguar-branded cars
 
 - Tools: 
 
-Data source: Excel file with data collected from the sales and CRM system
+Excel file with data collected from the sales and CRM system: [Data source](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/fontesdados/DadosVendaCarros.xlsx)
 
 Dashboard: Power BI
 
