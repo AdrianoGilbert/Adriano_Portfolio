@@ -29,7 +29,7 @@ An Excel file with data collected from the company's sales and CRM system, with 
 | Customer Name | Name of the customer who purchased the vehicle |
 | Model | Vehicle model |
 | Color | Vehicle color |
-| Year | Vehicle Manufacturin year |
+| Year | Vehicle Manufacturing year |
 
 
 
