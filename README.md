@@ -11,3 +11,5 @@ Example data science portfolio
 4. Total General Sales and Sales Matrix
 
 ![Total Sales per Year](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/SalesYY.jpeg)
+![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/custoEntregaFabricante.jpg)
+![]()
