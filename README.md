@@ -7,3 +7,5 @@ Example data science portfolio
 2. Vehicle Delivery Cost By Manufacturer
 3. Labor Cost Per State
 4. Total General Sales and Sales Matrix
+
+![Total Sales per Year](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/SalesYY.jpeg)
