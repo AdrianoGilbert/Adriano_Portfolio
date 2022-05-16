@@ -1,2 +1,2 @@
 # Adriano_Portfolio
-Example data science portifolio
+Example data science portfolio
