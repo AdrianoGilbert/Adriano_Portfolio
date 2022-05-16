@@ -15,6 +15,6 @@ Excel file with data collected from the sales and CRM system: [Data source](http
 
 Dashboard: [Power BI](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/powerBi/EstudoCaso1_vendasCarros.pbix)
 
-
+![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/dashboard_carReseller.png?raw=true)
 
 
