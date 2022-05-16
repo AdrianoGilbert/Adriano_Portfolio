@@ -1,8 +1,6 @@
-# Adriano_Portfolio
+# Adriano |  Portfolio
 
-## Data Science Portfolio
-
-
+## Data Science
 
 
 # Project 1: Sales Results for a reseller of luxury automobiles based in São Paulo.
