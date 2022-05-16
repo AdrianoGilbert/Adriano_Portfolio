@@ -5,11 +5,12 @@ Example data science portfolio
 
 
 - Showcase through a Dashboard the following information:
-1. Total Sales per Year
-2. Vehicle Delivery Cost By Manufacturer
-3. Labor Cost Per State
-4. Total General Sales and Sales Matrix
 
+
+1. Total Sales per Year
 ![Total Sales per Year](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/SalesYY.jpeg)
+2. Vehicle Delivery Cost By Manufacter
 ![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/custoEntregaFabricante.jpg)
+3. Labor Cost Per State
 ![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/custoMaoObraEstados.jpg)
+4. Total General Sales and Sales Matrix
