@@ -27,4 +27,7 @@ Dashboard: [Power BI](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/m
 ![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/custoMaoObraEstados.png?raw=true)
 
 4. Total General Sales and Sales Matrix
-![](
+
+![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/vendasTotais.png?raw=true)
+
+
