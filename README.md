@@ -9,7 +9,7 @@ Example data science portfolio
 
 1. Total Sales per Year
  
-![Total Sales per Year](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/SalesYY.jpeg)
+![Total Sales per Year](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/SalesYY.png)
 
 2. Vehicle Delivery Cost By Manufacter
 
