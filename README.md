@@ -19,6 +19,8 @@ Libre Office Calc
 
 An Excel file with data collected from the company's sales and CRM system, with the following columns:
 
+![]()
+
 
 
 Excel file with data collected from the sales and CRM system: [Data source](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/fontesdados/DadosVendaCarros.xlsx)
