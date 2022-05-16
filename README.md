@@ -28,6 +28,6 @@ Dashboard: [Power BI](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/m
 
 4. Total General Sales and Sales Matrix
 
-![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/vendasTotais.png?raw=true)
+![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/matrizVendas.png?raw=true)
 
 
