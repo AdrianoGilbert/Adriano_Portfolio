@@ -13,7 +13,7 @@ Example data science portfolio
 
 2. Vehicle Delivery Cost By Manufacter
 
-![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/custoEntregaFabricante.jpg)
+![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/custoEntregaFabricante.png)
 
 3. Labor Cost Per State
 
