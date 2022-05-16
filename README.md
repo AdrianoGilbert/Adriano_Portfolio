@@ -1,4 +1,5 @@
 # Adriano_Portfolio
+
 ## Data Science Portfolio
 
 
@@ -10,6 +11,15 @@
 The C-Board is evaluating whether or not to continue selling Jaguar-branded cars and would like to know how Jaguar car sales have evolved by year and by state.
 
 - Tools: 
+
+Microsoft Power BI
+Libre Office Calc 
+
+- Data Source:
+
+An Excel file with data collected from the company's sales and CRM system, with the following columns:
+
+
 
 Excel file with data collected from the sales and CRM system: [Data source](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/fontesdados/DadosVendaCarros.xlsx)
 
