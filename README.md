@@ -43,7 +43,7 @@
 
 # Project 2:
 
-## Acquire and Prepare Data from Web
+## Web Scraping and Data Wrangling with Python
 
 ![Data Science Workflow](Images/ds-workflow.png)
 
