@@ -104,7 +104,13 @@
 
 ![](Images/output3Types.png)
 
+- Deleting the Source Column
 
+since 'Source' column has no values for futher analysis it was deleted
+
+`del data['Source']`
+
+`data.head()`
 
 
 
