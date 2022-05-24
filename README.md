@@ -29,7 +29,7 @@
 | Customer Name | Name of the customer who purchased the vehicle |
 | Model | Vehicle model |
 | Color | Vehicle color |
-| Year | Vehicle Manufacturing year |
+| Year | Vehicle manufacturing year |
 
 
 
@@ -53,7 +53,7 @@
 
 - Demonstrates how to prepare raw data acquired from the web that needs Data Wrangling. 
 
-- Focus on acquiring and Preparing steps of Data Science workflow.
+- Focus on acquiring and preparing steps of Data Science workflow.
 
 ### Tools:
 
@@ -65,3 +65,25 @@
 
 - [Wikipedia:Fundraising statistics](https://en.wikipedia.org/wiki/Wikipedia:Fundraising_statistics)
 
+#### Step 1: Acquire
+
+ - Import libraries
+
+`import pandas as pd`
+
+- Retrieve/Read the data
+
+`url = 'https://en.wikipedia.org/wiki/Wikipedia:Fundraising_statistics'`
+
+`table = pd.read_html(url)`
+
+`table`
+
+Assign variable url = "https://en.wikipedia.org/wiki/Wikipedia:Fundraising_statistics"
+Retrieve the data tables = pd.read_html(url)
+Assign the first DataFrame to a variable
+HINT: tables is a list DataFrame containing all the data
+Option 2: From csv file (if option 1 fails)
+Use pd.read_csv() to read the file files/fundraising.csv
+NOTE: Remember to assign the result to a variable (e.g., data)
+Apply .head() on the data to see all is as expected
