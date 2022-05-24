@@ -49,6 +49,7 @@
 
 ![Data Science Workflow](Images/ds-workflow.png)
 
+
  ### Goal of Project:
 
 - Demonstrates how to prepare raw data acquired from the web that needs Data Wrangling. 
