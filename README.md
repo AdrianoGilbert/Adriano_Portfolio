@@ -2,19 +2,19 @@
 
 ## Sales results for a reseller of luxury automobiles based in São Paulo.
  
-- Business Problem: 
+### Business Problem: 
 
-The C-Board is evaluating whether or not to continue selling Jaguar-branded cars and would like to know how Jaguar car sales have evolved by year and by state.
+- The C-Board is evaluating whether or not to continue selling Jaguar-branded cars and would like to know how Jaguar car sales have evolved by year and by state.
 
-- Tools: 
+### Tools: 
 
-Microsoft Power BI
+- Microsoft Power BI
 
-Libre Office Calc 
+- Libre Office Calc 
 
-- [Data source](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/fontesdados/DadosVendaCarros.xlsx)
+### Data source:
 
-An Excel file with data collected from the company's sales and CRM system, with the following columns:
+ - An Excel file with data collected from the company's sales and CRM system, with the following columns:
 
 | Column      | Description         |
 | ----------- | -----------         |
@@ -36,23 +36,23 @@ An Excel file with data collected from the company's sales and CRM system, with 
 ![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/ColunasTabela.png?raw=true)
 
 
-
-
-Dashboard: [Power BI](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/powerBi/EstudoCaso1_vendasCarros.pbix)
+### Dashboard: 
 
 ![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/dashboard_carReseller.png?raw=true)
+
+
 
 
 # Project 2:
 
 ## Acquire and Prepare Data from Web
 
-![Data Science Workflow](img/ds-workflow.png)
+![Data Science Workflow](ds-workflow.png)
 
- - Goal of Project:
+ ### Goal of Project:
 
-Demonstrates how to prepare raw data acquire from web that needs Data Wrangling. 
+- Demonstrates how to prepare raw data acquire from web that needs Data Wrangling. 
 
-Focus on Acquire and Prepare steps of Data Science worflow.
+- Focus on Acquire and Prepare steps of Data Science workflow.
 
 
