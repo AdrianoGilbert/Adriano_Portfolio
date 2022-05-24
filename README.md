@@ -65,6 +65,8 @@
 
 - [Wikipedia:Fundraising statistics](https://en.wikipedia.org/wiki/Wikipedia:Fundraising_statistics)
 
+### Workflow
+
 #### Step 1: Acquire
 
  - Import libraries
@@ -81,8 +83,7 @@
 
 `data.head()`
 
-Assign variable url = "https://en.wikipedia.org/wiki/Wikipedia:Fundraising_statistics"
-Retrieve the data tables = pd.read_html(url)
-Assign the first DataFrame to a variable
 
-Apply .head() on the data to see all is as expected
+#### Step 2: Prepare
+
+
