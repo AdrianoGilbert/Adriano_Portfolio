@@ -2,7 +2,7 @@
 
 ## Sales results for a reseller of luxury automobiles based in São Paulo.
  
-- Business Problem Definition: 
+- Business Problem: 
 
 The C-Board is evaluating whether or not to continue selling Jaguar-branded cars and would like to know how Jaguar car sales have evolved by year and by state.
 
@@ -46,3 +46,9 @@ Dashboard: [Power BI](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/m
 # Project 2:
 
 ## Acquire and Prepare Data from Web
+
+ - Goal of Project:
+ 
+This project will focus on acquire and prepare steps of Data Science worflow.
+
+The process demonstrates how to prepare raw data that needs Data Wrangling.
