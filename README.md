@@ -83,7 +83,7 @@
 
 `data.head()`
 
-![output1]()
+![output1](Images/output1.png)
 
 
 
