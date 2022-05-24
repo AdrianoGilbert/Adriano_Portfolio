@@ -69,7 +69,7 @@
 
 #### Step 1: Acquire
 
- - Import libraries
+ - Importing libraries
 
 `import pandas as pd`
 
@@ -77,7 +77,7 @@
 
 `%matplotlib inline`
 
-- Retrieving and read the data
+- Retrieving and reading the data
 
 `url = 'https://en.wikipedia.org/wiki/Wikipedia:Fundraising_statistics'`
 
@@ -90,14 +90,24 @@
 ![output1](Images/output1.png)
 
 
-
 #### Step 2: Prepare
 
-- Check for null (missing) values
+- Looking for null (missing) values
 
 `data.isna().any()`
-
 ![](Images/output2Null.png)
 
+
 - Checking the data types
+
+`data.dtypes`
+
+![](Images/output3Types.png)
+
+
+
+
+
+
+
 
