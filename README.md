@@ -95,7 +95,9 @@
 
 - Check for null (missing) values
 
-![]()
+`data.isna().any()`
+
+![](Images/output2Null.png)
 
 - Checking the data types
 
