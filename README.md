@@ -73,7 +73,11 @@
 
 `import pandas as pd`
 
-- Retrieve/Read the data
+`import matplotlib.pyplot as plt`
+
+`%matplotlib inline`
+
+- Retrieving and read the data
 
 `url = 'https://en.wikipedia.org/wiki/Wikipedia:Fundraising_statistics'`
 
@@ -89,4 +93,7 @@
 
 #### Step 2: Prepare
 
+- Check for null (missing) values
+
+- Checking the data types
 
