@@ -38,9 +38,7 @@
 
 ### Dashboard: 
 
-![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/dashboard_carReseller.png?raw=true)
-
-
+![](Images/carsalesDashb.png)
 
 
 # Project 2:
