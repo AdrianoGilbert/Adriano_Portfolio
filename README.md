@@ -43,3 +43,6 @@ Dashboard: [Power BI](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/m
 ![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/dashboard_carReseller.png?raw=true)
 
 
+# Project 2:
+
+## Acquire and Prepare Data from Web
