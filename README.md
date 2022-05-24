@@ -14,7 +14,7 @@
 
 ### Data source:
 
- - An Excel file with data collected from the company's sales and CRM system, with the following columns:
+ - An Excel file with data collected from the company's sales system and CRM, with the following columns:
 
 | Column      | Description         |
 | ----------- | -----------         |
