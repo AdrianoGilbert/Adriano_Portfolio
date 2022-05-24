@@ -129,6 +129,7 @@ All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last ye
 
 `data.dtypes`
 
+![](Images/output6ConvertNum.png)
 
 - Setting 'Year' to index
 
