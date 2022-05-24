@@ -47,7 +47,7 @@
 
 ## Acquire and Prepare Data from Web
 
-![Data Science Workflow](ds-workflow.png)
+![Data Science Workflow](Images/ds-workflow.png)
 
  ### Goal of Project:
 
@@ -94,6 +94,8 @@
 #### Step 2: Prepare
 
 - Check for null (missing) values
+
+![]()
 
 - Checking the data types
 
