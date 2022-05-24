@@ -106,7 +106,7 @@
 
 - Deleting the Source Column
 
-since 'Source' column has no values for futher analysis it was deleted
+Since 'Source' column has no values for futher analysis it was deleted.
 
 `del data['Source']`
 
@@ -117,5 +117,13 @@ since 'Source' column has no values for futher analysis it was deleted
 - Converting 'Year' column to numeric
 
 All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last year as a string, then convert that to numeric.
+
+`data ['Year'] = data ['Year'].str[-4:]`
+
+`data.head()`
+
+![](Images/output5Year.png)
+
+- Set Year to index
 
 
