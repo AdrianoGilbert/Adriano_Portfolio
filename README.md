@@ -51,9 +51,9 @@
 
  ### Goal of Project:
 
-- Demonstrates how to prepare raw data acquire from web that needs Data Wrangling. 
+- Demonstrates how to prepare raw data acquired from the web that needs Data Wrangling. 
 
-- Focus on Acquire and Prepare steps of Data Science workflow.
+- Focus on acquiring and Preparing steps of Data Science workflow.
 
 ### Tools:
 
