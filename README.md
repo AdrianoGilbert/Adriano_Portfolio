@@ -65,7 +65,7 @@
 
 - [Wikipedia:Fundraising statistics](https://en.wikipedia.org/wiki/Wikipedia:Fundraising_statistics)
 
-### Workflow
+### Workflow:
 
 #### Step 1: Acquire
 
@@ -82,6 +82,9 @@
 `data = table [0]`
 
 `data.head()`
+
+
+
 
 
 #### Step 2: Prepare
