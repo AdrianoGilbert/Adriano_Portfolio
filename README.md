@@ -138,3 +138,6 @@ All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last ye
 `data`
 
 ![](Images/output7IndexSort.png)
+
+- Converting the remaining columns to numeric
+
