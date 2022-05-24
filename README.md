@@ -125,6 +125,11 @@ All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last ye
 
 ![](Images/output5Year.png)
 
-- Set Year to index
+`data ['Year'] = pd.to_numeric (data ['Year'])`
+
+`data.dtypes`
+
+
+- Setting 'Year' to index
 
 
