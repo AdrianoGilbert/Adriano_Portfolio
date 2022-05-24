@@ -143,6 +143,10 @@ All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last ye
 
 `data ['Revenue'] = pd.to_numeric(data ['Revenue'].str[2:].str.replace(',', ''))`
 
+![](Images/output8CovertNum.png)
+
+
+
 `data ['Expenses'] = pd.to_numeric(data ['Expenses'].str[2:].str.replace(',', ''))`
 
 `data ['Asset rise'] = pd.to_numeric(data ['Asset rise'].str[2:].str.replace(',', ''))`
