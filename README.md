@@ -130,5 +130,10 @@ All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last ye
 ![](Images/output6ConvertNum.png)
 
 - Setting 'Year' to index
+`data.set_index('Year', inplace=True)`
 
+`data.sort_index(inplace=True)`
 
+`data`
+
+![](Images/output7IndexSort.png)
