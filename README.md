@@ -47,6 +47,8 @@ Dashboard: [Power BI](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/m
 
 ## Acquire and Prepare Data from Web
 
+![Data Science Workflow](img/ds-workflow.png)
+
  - Goal of Project:
 
 Demonstrates how to prepare raw data acquire from web that needs Data Wrangling. 
