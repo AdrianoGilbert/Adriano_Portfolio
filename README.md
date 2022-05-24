@@ -112,8 +112,10 @@ since 'Source' column has no values for futher analysis it was deleted
 
 `data.head()`
 
+![](Images/output4DeletingColumn.png)
 
+- Converting 'Year' column to numeric
 
-
+All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last year as a string, then convert that to numeric.
 
 
