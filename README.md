@@ -49,6 +49,6 @@ Dashboard: [Power BI](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/m
 
  - Goal of Project:
  
-This project will focus on acquire and prepare steps of Data Science worflow.
+Focus on Acquire and Prepare steps of Data Science worflow.
 
-The process demonstrates how to prepare raw data that needs Data Wrangling.
+Demonstrates how to prepare raw data acquire from web that needs Data Wrangling.
