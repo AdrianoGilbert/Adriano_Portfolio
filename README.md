@@ -77,13 +77,12 @@
 
 `table = pd.read_html(url)`
 
-`table`
+`data = table [0]`
+
+`data.head()`
 
 Assign variable url = "https://en.wikipedia.org/wiki/Wikipedia:Fundraising_statistics"
 Retrieve the data tables = pd.read_html(url)
 Assign the first DataFrame to a variable
-HINT: tables is a list DataFrame containing all the data
-Option 2: From csv file (if option 1 fails)
-Use pd.read_csv() to read the file files/fundraising.csv
-NOTE: Remember to assign the result to a variable (e.g., data)
+
 Apply .head() on the data to see all is as expected
