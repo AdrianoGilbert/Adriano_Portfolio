@@ -59,7 +59,7 @@
 
 - Jupyter Notebook
 
-- pandas: Python library 
+- Python libraries: pandas and matplotlib
 
 ### Data source:
 
