@@ -55,4 +55,13 @@
 
 - Focus on Acquire and Prepare steps of Data Science workflow.
 
+### Tools:
+
+- Jupyter Notebook
+
+- pandas: Python library 
+
+### Data source:
+
+- [Wikipedia:Fundraising statistics](https://en.wikipedia.org/wiki/Wikipedia:Fundraising_statistics)
 
