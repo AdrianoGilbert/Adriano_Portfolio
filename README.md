@@ -153,3 +153,8 @@ All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last ye
 
 ![](Images/output8CovertNum.png)
 
+- Visualize data to investigate quality
+
+`data [['Revenue', 'Expenses', 'Total assets']].plot()`
+
+
