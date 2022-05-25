@@ -32,10 +32,6 @@
 | Year | Vehicle manufacturing year |
 
 
-
-![](https://github.com/AdrianoGilbert/Adriano_Portfolio/blob/main/Images/ColunasTabela.png?raw=true)
-
-
 ### Dashboard: 
 
 ![](Images/carsalesDashb.png)
