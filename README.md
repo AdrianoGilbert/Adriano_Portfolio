@@ -19,10 +19,10 @@
 | Column      | Description         |
 | ----------- | -----------         |
 | Invoice Date | Invoice issue date |
-| Manufaturer | Vehicle manufacturer |
+| Manufacturer	 | Vehicle manufacturer |
 | State | State where the sale took place |
 | Sales Price |  Vehicle sales price|
-| Pucharse Price | The price paid for the company by the vehicles|
+| Purcharse Price | The price paid for the company by the vehicles|
 | Total Discount| Total discount provided on the sale price |
 | Cost Delivery | Cost of delivering the vehicle to the owner |
 | Labor Costs | Labor Cost (sales personnel, mechanic, etc...)|
