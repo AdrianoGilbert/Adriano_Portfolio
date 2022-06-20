@@ -162,3 +162,5 @@ All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last ye
 # Project 3:
 
 ## Data Analyze using Word Cloud
+
+![](Images/p1.png)
