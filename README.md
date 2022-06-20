@@ -161,7 +161,27 @@ All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last ye
 
 # Project 3:
 
-## Data Analyze using Word Cloud
+## Analyzing data using Word Cloud
+
+### Goal of Project:
+
+- Get insights from Wikipedia webpage related to Data Science. Discover more related concepts by doing text mining, extract keywords from it, and then visualize the result.
+
+### Tools and Resources:
+
+- Jupyter Notebook
+
+- Python libraries: 
+1. requests 
+2. rake
+3. matplotlib
+4. wordcloud
+
+### Data source:
+
+[Wikipedia Webpage: Data Science](https://en.wikipedia.org/wiki/Data_science)
+
+### Workflow:
 
 ![](Images/p1.png)
 ![](Images/p2.png)
