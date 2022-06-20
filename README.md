@@ -159,3 +159,6 @@ All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last ye
 
 ![](Images/output10Viz.png)
 
+# Project 3:
+
+## Data Analyze using Word Cloud
