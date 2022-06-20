@@ -164,3 +164,8 @@ All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last ye
 ## Data Analyze using Word Cloud
 
 ![](Images/p1.png)
+![](Images/p2.png)
+![](Images/p3.png)
+![](Images/p4.png)
+![](Images/p5.png)
+![](Images/p6.png)
