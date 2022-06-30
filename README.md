@@ -1,41 +1,33 @@
-# Project 1: 
+# Project 3:
 
-## Sales results for a reseller of luxury automobiles based in São Paulo.
- 
-### Business Problem: 
+## Analyzing data using Word Cloud
 
-- The C-Board is evaluating whether or not to continue selling Jaguar-branded cars and would like to know how Jaguar car sales have evolved by year and by state.
+### Goal of Project:
 
-### Tools: 
+- Get insights from Wikipedia webpage related to Data Science. Discover more related concepts by doing text mining, extract keywords from it, and then visualize the result.
 
-- Microsoft Power BI
+### Tools and Resources:
 
-- Libre Office Calc 
+- Jupyter Notebook
+
+- Python libraries: 
+1. requests 
+2. rake
+3. matplotlib
+4. wordcloud
 
 ### Data source:
 
- - An Excel file with data collected from the company's sales system and CRM, with the following columns:
+[Wikipedia Webpage: Data Science](https://en.wikipedia.org/wiki/Data_science)
 
-| Column      | Description         |
-| ----------- | -----------         |
-| Invoice Date | Invoice issue date |
-| Manufacturer	 | Vehicle manufacturer |
-| State | State where the sale took place |
-| Sales Price |  Vehicle sales price|
-| Purcharse Price | The price paid for the company by the vehicles|
-| Total Discount| Total discount provided on the sale price |
-| Cost Delivery | Cost of delivering the vehicle to the owner |
-| Labor Costs | Labor Cost (sales personnel, mechanic, etc...)|
-| Customer Name | Name of the customer who purchased the vehicle |
-| Model | Vehicle model |
-| Color | Vehicle color |
-| Year | Vehicle manufacturing year |
+### Workflow:
 
-
-### Dashboard: 
-
-![](Images/carsalesDashb.png)
-
+![](Images/p1.png)
+![](Images/p2.png)
+![](Images/p3.png)
+![](Images/p4.png)
+![](Images/p5.png)
+![](Images/p6.png)
 
 # Project 2:
 
@@ -159,33 +151,44 @@ All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last ye
 
 ![](Images/output10Viz.png)
 
-# Project 3:
 
-## Analyzing data using Word Cloud
 
-### Goal of Project:
+# Project 1: 
 
-- Get insights from Wikipedia webpage related to Data Science. Discover more related concepts by doing text mining, extract keywords from it, and then visualize the result.
+## Sales results for a reseller of luxury automobiles based in São Paulo.
+ 
+### Business Problem: 
 
-### Tools and Resources:
+- The C-Board is evaluating whether or not to continue selling Jaguar-branded cars and would like to know how Jaguar car sales have evolved by year and by state.
 
-- Jupyter Notebook
+### Tools: 
 
-- Python libraries: 
-1. requests 
-2. rake
-3. matplotlib
-4. wordcloud
+- Microsoft Power BI
+
+- Libre Office Calc 
 
 ### Data source:
 
-[Wikipedia Webpage: Data Science](https://en.wikipedia.org/wiki/Data_science)
+ - An Excel file with data collected from the company's sales system and CRM, with the following columns:
 
-### Workflow:
+| Column      | Description         |
+| ----------- | -----------         |
+| Invoice Date | Invoice issue date |
+| Manufacturer	 | Vehicle manufacturer |
+| State | State where the sale took place |
+| Sales Price |  Vehicle sales price|
+| Purcharse Price | The price paid for the company by the vehicles|
+| Total Discount| Total discount provided on the sale price |
+| Cost Delivery | Cost of delivering the vehicle to the owner |
+| Labor Costs | Labor Cost (sales personnel, mechanic, etc...)|
+| Customer Name | Name of the customer who purchased the vehicle |
+| Model | Vehicle model |
+| Color | Vehicle color |
+| Year | Vehicle manufacturing year |
 
-![](Images/p1.png)
-![](Images/p2.png)
-![](Images/p3.png)
-![](Images/p4.png)
-![](Images/p5.png)
-![](Images/p6.png)
+
+### Dashboard: 
+
+![](Images/carsalesDashb.png)
+
+
