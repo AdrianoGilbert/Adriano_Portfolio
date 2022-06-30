@@ -1,3 +1,59 @@
+# Project 4:
+
+## HR Analysis with Python and Power BI
+
+### Goal of Project:
+
+ The objective is to study the relationship between different employee attributes and the impact on their promotions. To do so, seven business questions should be answered:
+
+#### Question 1 - What is the correlation among employee attributes?
+#### Question 2 - What is the job tenure of the employee majority?
+#### Question 3 - Which annual assessment score was most common?
+#### Question 4 - What is the age distribution of the employees?
+#### Question 5 - What is the most frequent number of training sessions?
+#### Question 6 - What is the proportion of employees by recruitment channel?
+#### Question 7 - What is the relationship between the promotion and the assessment score of the previous year?
+
+### Tools and Resources:
+
+- Jupyter Notebook
+
+- Microsoft Power BI
+
+- Python libraries: 
+1. numpy
+2. pandas
+3. matplotlib
+4. seaborn
+5. warnings
+
+### Data source:
+
+ - A .csv file with data collected from the HR's ERP, with the following datas:
+
+| Column      | Description         |
+| ----------- | -----------         |
+| id_funcionario | employee id number|
+| departmento 	 | department the employee belongs |
+| regiao  | region where the employee tooks place |
+| educacao |  employee education level|
+| genero | employee gender|
+| canal_recrutamento | recruitment channel|
+| numero_treinamentos | training carried out by the employee |
+| idade  | employee age |
+| aval_ano_anterior  |employee's assessment score |
+|tempo_servico  | employee's length of service |
+| promovido  | whether or not the employee was promoted in the previous year |
+
+
+### Workflow:
+
+
+
+
+#### Question 1 - What is the correlation among employee attributes?
+
+
 # Project 3:
 
 ## Analyzing data using Word Cloud
@@ -169,7 +225,7 @@ All the strings in years are formatted: 'YYYY/YYYY';  we want to get the last ye
 
 ### Data source:
 
- - An Excel file with data collected from the company's sales system and CRM, with the following columns:
+ - A .xlsx file with data collected from the company's sales system and CRM, with the following columns:
 
 | Column      | Description         |
 | ----------- | -----------         |
