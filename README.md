@@ -6,13 +6,13 @@
 
  The objective is to study the relationship between different employee attributes and the impact on their promotions. To do so, seven business questions should be answered:
 
-#### [Question 1](Images/p4.12.png) - What is the correlation among employee attributes?
-#### Question 2 - What is the job tenure of the employee majority?
-#### Question 3 - Which annual assessment score was most common?
-#### Question 4 - What is the age distribution of the employees?
-#### Question 5 - What is the most frequent number of training sessions?
-#### Question 6 - What is the proportion of employees by recruitment channel?
-#### Question 7 - What is the relationship between the promotion and the assessment score of the previous year?
+#### [Question 1](Images/p4.7.png) - What is the correlation among employee attributes?
+#### [Question 2](Images/p4.8.png) - What is the job tenure of the employee majority?
+#### [Question 3](Images/p4.9.png) - Which annual assessment score was most common?
+#### [Question 4](Images/p4.10.png) - What is the age distribution of the employees?
+#### [Question 5](Images/p4.10.png) - What is(Images/p4.7.png) the most frequent number of training sessions?
+#### [Question 6](Images/p4.11.png) - What is the proportion of employees by recruitment channel?
+#### [Question 7](Images/p4.12.png) - What is the relationship between the promotion and the assessment score of the previous year?
 
 ### Tools and Resources:
 
