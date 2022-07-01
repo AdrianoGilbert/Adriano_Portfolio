@@ -29,7 +29,7 @@
 
 ### Data source:
 
- - A .csv file with data collected from the HR's ERP, with the following datas:
+ - A .csv file with data collected from the ERP, with the following datas:
 
 | Column      | Description         |
 | ----------- | -----------         |
