@@ -6,7 +6,7 @@
 
  The objective is to study the relationship between different employee attributes and the impact on their promotions. To do so, seven business questions should be answered:
 
-#### Question 1 - What is the correlation among employee attributes?
+#### [Question 1](Images/p4.12.png) - What is the correlation among employee attributes?
 #### Question 2 - What is the job tenure of the employee majority?
 #### Question 3 - Which annual assessment score was most common?
 #### Question 4 - What is the age distribution of the employees?
@@ -48,10 +48,24 @@
 
 ### Workflow:
 
+![](Images/p4.1.png)
+![](Images/p4.2.png)
+![](Images/p4.3.png)
+![](Images/p4.4.png)
+![](Images/p4.5.png)
+![](Images/p4.6.png)
+![](Images/p4.7.png)
+![](Images/p4.8.png)
+![](Images/p4.9.png)
+![](Images/p4.10.png)
+![](Images/p4.11.png)
+![](Images/p4.12.png)
 
 
+### Final Dashboard on Power BI
 
-#### Question 1 - What is the correlation among employee attributes?
+![](Images/p4.dashb.png)
+
 
 
 # Project 3:
