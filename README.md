@@ -10,7 +10,7 @@
 #### [Question 2](Images/p4.8.png) - What is the job tenure of the employee majority?
 #### [Question 3](Images/p4.9.png) - Which annual assessment score was most common?
 #### [Question 4](Images/p4.10.png) - What is the age distribution of the employees?
-#### [Question 5](Images/p4.10.png) - What is(Images/p4.7.png) the most frequent number of training sessions?
+#### [Question 5](Images/p4.10.png) - What is the most frequent number of training sessions?
 #### [Question 6](Images/p4.11.png) - What is the proportion of employees by recruitment channel?
 #### [Question 7](Images/p4.12.png) - What is the relationship between the promotion and the assessment score of the previous year?
 
